@@ -15,10 +15,6 @@ import os
 建案:Auto_02
 '''
 
-'''
-建案:Auto_02
-'''
-
 driver = webdriver.Chrome()
 driver.get("https://devjeansalesadmin.webtech888.com/login")
 driver.maximize_window()
